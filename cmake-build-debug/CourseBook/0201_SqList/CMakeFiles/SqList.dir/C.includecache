@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Status/Status.h
+stdio.h
+-
+
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0201_SqList/SqList-main.c
+stdio.h
+-
+SqList.h
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0201_SqList/SqList.h
+
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0201_SqList/SqList.h
+stdio.h
+-
+stdlib.h
+-
+Status.h
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0201_SqList/Status.h
+

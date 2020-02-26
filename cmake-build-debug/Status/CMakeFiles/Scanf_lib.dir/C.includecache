@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/Status/Status.c
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+ctype.h
+-
+

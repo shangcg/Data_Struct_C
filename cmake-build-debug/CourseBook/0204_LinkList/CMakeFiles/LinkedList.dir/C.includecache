@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Status/Status.h
+stdio.h
+-
+
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/LinkList-main.c
+stdio.h
+-
+Status.h
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/Status.h
+LinkList.h
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/LinkList.h
+
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/LinkList.c
+LinkList.h
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/LinkList.h
+
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/LinkList.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Status.h
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/CourseBook/0204_LinkList/Status.h
+
