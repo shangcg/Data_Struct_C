@@ -1,0 +1,5 @@
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/BHCourseBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/BHCourseBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/BHCourseBook/cmake-build-debug/02/CMakeFiles/rebuild_cache.dir
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/BHCourseBook/cmake-build-debug/02/CMakeFiles/edit_cache.dir
+/Users/shangchenguang/Documents/studywork/Data-Structure/CLion/BHCourseBook/cmake-build-debug/02/CMakeFiles/02.dir
