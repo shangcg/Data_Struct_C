@@ -19,6 +19,7 @@ Status InitList(SqList* L) {
     if((*L).elem == NULL) {
         // 存储内存失败
         exit(OVERFLOW);
+
     }
     
     (*L).length = 0;                    // 初始化顺序表长度为0
