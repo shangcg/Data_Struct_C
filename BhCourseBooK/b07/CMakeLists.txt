@@ -2,5 +2,5 @@
 include_directories(${CMAKE_SOURCE_DIR}/Status)
 
 # 生成可执行文件，并链接公共库
-add_executable(b02 B02.c BSqList.c BsqList.h)
+add_executable(b07 B07.c)
 target_link_libraries(b02 Scanf_lib)
